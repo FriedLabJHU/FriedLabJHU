@@ -7,7 +7,7 @@ Science is unlikely to deliver transformative insights if we study systems and w
 
 We are improving science by ...  
 - Developing methods that combine crosslinking, mass spectrometry, and NanoPore technology
-- Useing directed evolution to get proteins and RNA to do our bidding
+- Using directed evolution to get proteins and nucleic acids to do our bidding
 - Collaborating with other scientists from across the world
 - Sharing data, maintaining science transparent and open, and placing inclusiveness at the core of our values
 
@@ -34,7 +34,7 @@ We find that protein structure has evolved a lot slower than protein sequences. 
 
 [Learn More - GitHub](https://github.com/FriedLabJHU/DomainMapper)
 ## 👀 See what we are up to!
-![Twitter Follow](https://img.shields.io/twitter/follow/fried_lab?style=social)  
+![https://twitter.com/](https://img.shields.io/twitter/follow/fried_lab?style=social)
 [Lab Site](http://friedlab.com)
 ## 🐦 Johns Hopkins University
 Remsen Hall Room 121  
