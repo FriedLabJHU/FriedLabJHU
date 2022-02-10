@@ -34,7 +34,7 @@ We find that protein structure has evolved a lot slower than protein sequences. 
 
 [Learn More - GitHub](https://github.com/FriedLabJHU/DomainMapper)
 ## 👀 See what we are up to!
-![Twitter Follow](https://img.shields.io/twitter/follow/fried_lab?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/fried_lab?style=social)  
 [Lab Site](http://friedlab.com)
 ## 🐦 Johns Hopkins University
 Remsen Hall Room 121  
